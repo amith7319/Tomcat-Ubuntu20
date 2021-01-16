@@ -40,3 +40,6 @@ echo Postgres user password = $POSTGRESPASSWORD >> /root/password.txt
 
 #Installing PgAdmin
 apt install pgadmin4 pgadmin4-apache2 -y
+
+#Installing Apache Tomcat
+
